@@ -17,9 +17,11 @@ The project follows the **Medallion Architecture** to ensure data quality and re
 - **Visualization:** Power BI (DirectQuery/Import).
 
 ## 📈 Business Insights (Power BI)
-![Retention Dashboard 1](pbi_page_1.png)
-![Retention Dashboard 2](pbi_page_2.png)
-![Retention Dashboard 3](pbi_page_3.png)
+![Retention Dashboard 1](PBI%20page%201.png)
+
+![Retention Dashboard 2](PBI%20page%202.png)
+
+![Retention Dashboard 3](PBI%20page%203.png)
 1. **Retention Crisis:** 96.9% of customers are one-time buyers.
 2. **Operational Churn:** Delivery delays are the primary driver of customer loss (94.5% churn for late deliveries).
 3. **Revenue Potential:** A 12% increase in retention could significantly boost total revenue.
